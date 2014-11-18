@@ -1,0 +1,1065 @@
+Traitement du fichier plaque1.dxf
+ParseDone Entity #0 - Marqued as STANDALONE
+ParseDone Entity #1 - Marqued as STANDALONE
+ParseDone Entity #2 - Marqued as STANDALONE
+ParseDone Entity #3 - Marqued as STANDALONE
+ParseDone Entity #4 - Marqued as STANDALONE
+ParseDone Entity #5 - Marqued as STANDALONE
+ParseDone Entity #6 - Marqued as STANDALONE
+ParseDone Entity #7 - Marqued as STANDALONE
+ParseDone Entity #8 - Marqued as STANDALONE
+ParseDone Entity #9 - Marqued as STANDALONE
+ParseDone Entity #10 - Marqued as STANDALONE
+ParseDone Entity #11 - Marqued as STANDALONE
+ParseDone Entity #12 - Marqued as STANDALONE
+ParseDone Entity #13 - Marqued as STANDALONE
+ParseDone Entity #14 - Marqued as STANDALONE
+ParseDone Entity #15 - Marqued as STANDALONE
+ParseDone Entity #16 - Marqued as STANDALONE
+ParseDone Entity #17 - Marqued as STANDALONE
+ParseDone Entity #18 - Marqued as STANDALONE
+ParseDone Entity #19 - Marqued as STANDALONE
+ParseDone Entity #20 - Marqued as STANDALONE
+ParseDone Entity #21 - Marqued as STANDALONE
+ParseDone Entity #22 - Marqued as STANDALONE
+ParseDone Entity #23 - Marqued as STANDALONE
+ParseDone Entity #24 - Marqued as STANDALONE
+ParseDone Entity #25 - Marqued as STANDALONE
+ParseDone Entity #26 - Marqued as STANDALONE
+ParseDone Entity #27 - Marqued as STANDALONE
+ParseDone Entity #28 - Marqued as STANDALONE
+ParseDone Entity #29 - Marqued as STANDALONE
+ParseDone Entity #30 - Marqued as STANDALONE
+ParseDone Entity #31 - Marqued as STANDALONE
+ParseDone Entity #32 - Marqued as STANDALONE
+ParseDone Entity #33 - Marqued as STANDALONE
+ParseDone Entity #34 - Marqued as STANDALONE
+ParseDone Entity #35 - Marqued as STANDALONE
+ParseDone Entity #36 - Marqued as STANDALONE
+ParseDone Entity #37 - Marqued as STANDALONE
+ParseDone Entity #38 - Marqued as STANDALONE
+ParseDone Entity #39 - Marqued as STANDALONE
+ParseDone Entity #40 - Marqued as STANDALONE
+ParseDone Entity #41 - Marqued as STANDALONE
+ParseDone Entity #42 - Marqued as STANDALONE
+ParseDone Entity #43 - Marqued as STANDALONE
+ParseDone Entity #44 - Marqued as STANDALONE
+ParseDone Entity #45 - Marqued as STANDALONE
+ParseDone Entity #46 - Marqued as STANDALONE
+ParseDone Entity #47 - Marqued as STANDALONE
+ParseDone Entity #48 - Marqued as STANDALONE
+ParseDone Entity #49 - Marqued as STANDALONE
+ParseDone Entity #50 - Marqued as STANDALONE
+ParseDone Entity #51 - Marqued as STANDALONE
+ParseDone Entity #52 - Marqued as STANDALONE
+ParseDone Entity #53 - Marqued as STANDALONE
+ParseDone Entity #54 - Marqued as STANDALONE
+ParseDone Entity #55 - Marqued as STANDALONE
+ParseDone Entity #56 - Marqued as STANDALONE
+ParseDone Entity #57 - Marqued as STANDALONE
+ParseDone Entity #58 - Marqued as STANDALONE
+ParseDone Entity #59 - Marqued as STANDALONE
+ParseDone Entity #60 - Marqued as STANDALONE
+ParseDone Entity #61 - Marqued as STANDALONE
+ParseDone Entity #62 - Marqued as STANDALONE
+ParseDone Entity #63 - Marqued as STANDALONE
+ParseDone Entity #64 - Marqued as STANDALONE
+ParseDone Entity #65 - Marqued as STANDALONE
+ParseDone Entity #67 - Marqued as STANDALONE
+ParseDone Entity #80 - Marqued as STANDALONE
+ParseDone Entity #81 - Marqued as STANDALONE
+ParseDone Entity #82 - Marqued as STANDALONE
+ParseDone Entity #83 - Marqued as STANDALONE
+ParseDone Entity #84 - Marqued as STANDALONE
+ParseDone Entity #85 - Marqued as STANDALONE
+ParseDone Entity #86 - Marqued as STANDALONE
+ParseDone Entity #87 - Marqued as STANDALONE
+ParseDone Entity #88 - Marqued as STANDALONE
+ParseDone Entity #89 - Marqued as STANDALONE
+ParseDone Entity #90 - Marqued as STANDALONE
+ParseDone Entity #91 - Marqued as STANDALONE
+ParseDone Entity #92 - Marqued as STANDALONE
+ParseDone Entity #93 - Marqued as STANDALONE
+ParseDone Entity #94 - Marqued as STANDALONE
+ParseDone Entity #95 - Marqued as STANDALONE
+ParseDone Entity #96 - Marqued as STANDALONE
+
+Entity #96 <86.309105,-17.167948 ; 86.309105,-17.167948 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #95 <0.000000,-34.335896 ; 0.000000,-34.335896 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #94 <13.139779,-66.058129 ; 13.139779,-66.058129 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #93 <37.418924,-90.337274 ; 37.418924,-90.337274 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #92 <69.141157,-103.477053 ; 69.141157,-103.477053 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #91 <172.618210,0.000000 ; 172.618210,0.000000 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #90 <159.478431,31.722233 ; 159.478431,31.722233 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #89 <135.199286,56.001378 ; 135.199286,56.001378 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #88 <103.477053,69.141157 ; 103.477053,69.141157 ; 10 ; false ; 0.000000> 
+Point
+
+Entity #87 <103.477053,-103.477053 ; 103.477053,-103.477053 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #86 <135.199286,-90.337274 ; 135.199286,-90.337274 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #85 <159.478431,-66.058129 ; 159.478431,-66.058129 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #84 <172.618210,-34.335896 ; 172.618210,-34.335896 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #83 <69.141157,69.141157 ; 69.141157,69.141157 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #82 <37.418924,56.001378 ; 37.418924,56.001378 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #81 <13.139779,31.722233 ; 13.139779,31.722233 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #80 <0.000000,0.000000 ; 0.000000,0.000000 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #79 <50.059105,-22.917948 ; 12.559105,-22.917948 ; 0 ; false ; 37.500000> 
+Line
+
+Entity #78 <50.059105,-22.917948 ; 50.059105,-11.417948 ; 0 ; false ; 18.064158> 
+Circle <50.059105,-17.167948 ; 5.750000> 
+Arc <270.000000,90.000000> 
+
+Entity #77 <12.559105,-11.417948 ; 50.059105,-11.417948 ; 0 ; false ; 37.500000> 
+Line
+
+Entity #76 <12.559105,-11.417948 ; 12.559105,-22.917948 ; 0 ; false ; 18.064158> 
+Circle <12.559105,-17.167948 ; 5.750000> 
+Arc <90.000000,270.000000> 
+
+Entity #75 <50.059105,-18.917948 ; 12.559105,-18.917948 ; 0 ; false ; 37.500000> 
+Line
+
+Entity #74 <12.559105,-15.417948 ; 12.559105,-18.917948 ; 0 ; false ; 5.497787> 
+Circle <12.559105,-17.167948 ; 1.750000> 
+Arc <90.000000,270.000000> 
+
+Entity #73 <12.559105,-15.417948 ; 50.059105,-15.417948 ; 0 ; false ; 37.500000> 
+Line
+
+Entity #72 <50.059105,-18.917948 ; 50.059105,-15.417948 ; 0 ; false ; 5.497787> 
+Circle <50.059105,-17.167948 ; 1.750000> 
+Arc <270.000000,90.000000> 
+
+Entity #71 <50.059105,-20.917948 ; 12.559105,-20.917948 ; 6 ; false ; 37.500000> 
+Line
+
+Entity #70 <12.559105,-13.417948 ; 50.059105,-13.417948 ; 6 ; false ; 37.500000> 
+Line
+
+Entity #69 <50.059105,-20.917948 ; 50.059105,-13.417948 ; 6 ; false ; 11.780972> 
+Circle <50.059105,-17.167948 ; 3.750000> 
+Arc <270.000000,90.000000> 
+
+Entity #68 <12.559105,-13.417948 ; 12.559105,-20.917948 ; 6 ; false ; 11.780972> 
+Circle <12.559105,-17.167948 ; 3.750000> 
+Arc <90.000000,270.000000> 
+
+Entity #67 <100.309105,-17.167948 ; 100.309105,-17.167948 ; 2 ; false ; 87.964594> 
+Circle <86.309105,-17.167948 ; 14.000000> 
+
+Entity #66 <12.559105,-17.167948 ; 50.059105,-17.167948 ; 2 ; false ; 37.500000> 
+Line
+
+Entity #65 <5.007706,-50.844090 ; 5.007706,-50.844090 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #64 <52.632963,-98.469347 ; 52.632963,-98.469347 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #63 <119.985247,-98.469347 ; 119.985247,-98.469347 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #62 <167.610504,-50.844090 ; 167.610504,-50.844090 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #61 <167.610504,16.508194 ; 167.610504,16.508194 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #60 <119.985247,64.133451 ; 119.985247,64.133451 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #59 <52.632963,64.133451 ; 52.632963,64.133451 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #58 <5.007706,16.508194 ; 5.007706,16.508194 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #57 <-24.029239,4.779713 ; -24.029239,4.779713 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #56 <-24.029239,-39.115609 ; -24.029239,-39.115609 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #55 <-7.231226,-79.669599 ; -7.231226,-79.669599 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #54 <23.807454,-110.708279 ; 23.807454,-110.708279 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #53 <64.361444,-127.506292 ; 64.361444,-127.506292 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #52 <108.256766,-127.506292 ; 108.256766,-127.506292 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #51 <148.810756,-110.708279 ; 148.810756,-110.708279 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #50 <179.849436,-79.669599 ; 179.849436,-79.669599 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #49 <196.647449,-39.115609 ; 196.647449,-39.115609 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #48 <196.647449,4.779713 ; 196.647449,4.779713 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #47 <179.849436,45.333703 ; 179.849436,45.333703 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #46 <148.810756,76.372383 ; 148.810756,76.372383 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #45 <108.256766,93.170396 ; 108.256766,93.170396 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #44 <64.361444,93.170396 ; 64.361444,93.170396 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #43 <23.807454,76.372383 ; 23.807454,76.372383 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #42 <-7.231226,45.333703 ; -7.231226,45.333703 ; 9 ; false ; 0.000000> 
+Point
+
+Entity #41 <6.000000,-34.335896 ; 6.000000,-34.335896 ; 0 ; false ; 37.699112> 
+Circle <0.000000,-34.335896 ; 6.000000> 
+
+Entity #40 <19.139779,-66.058129 ; 19.139779,-66.058129 ; 0 ; false ; 37.699112> 
+Circle <13.139779,-66.058129 ; 6.000000> 
+
+Entity #39 <43.418924,-90.337274 ; 43.418924,-90.337274 ; 0 ; false ; 37.699112> 
+Circle <37.418924,-90.337274 ; 6.000000> 
+
+Entity #38 <75.141157,-103.477053 ; 75.141157,-103.477053 ; 0 ; false ; 37.699112> 
+Circle <69.141157,-103.477053 ; 6.000000> 
+
+Entity #37 <109.477053,-103.477053 ; 109.477053,-103.477053 ; 0 ; false ; 37.699112> 
+Circle <103.477053,-103.477053 ; 6.000000> 
+
+Entity #36 <141.199286,-90.337274 ; 141.199286,-90.337274 ; 0 ; false ; 37.699112> 
+Circle <135.199286,-90.337274 ; 6.000000> 
+
+Entity #35 <165.478431,-66.058129 ; 165.478431,-66.058129 ; 0 ; false ; 37.699112> 
+Circle <159.478431,-66.058129 ; 6.000000> 
+
+Entity #34 <178.618210,-34.335896 ; 178.618210,-34.335896 ; 0 ; false ; 37.699112> 
+Circle <172.618210,-34.335896 ; 6.000000> 
+
+Entity #33 <178.618210,0.000000 ; 178.618210,0.000000 ; 0 ; false ; 37.699112> 
+Circle <172.618210,0.000000 ; 6.000000> 
+
+Entity #32 <165.478431,31.722233 ; 165.478431,31.722233 ; 0 ; false ; 37.699112> 
+Circle <159.478431,31.722233 ; 6.000000> 
+
+Entity #31 <141.199286,56.001378 ; 141.199286,56.001378 ; 0 ; false ; 37.699112> 
+Circle <135.199286,56.001378 ; 6.000000> 
+
+Entity #30 <109.477053,69.141157 ; 109.477053,69.141157 ; 0 ; false ; 37.699112> 
+Circle <103.477053,69.141157 ; 6.000000> 
+
+Entity #29 <75.141157,69.141157 ; 75.141157,69.141157 ; 0 ; false ; 37.699112> 
+Circle <69.141157,69.141157 ; 6.000000> 
+
+Entity #28 <43.418924,56.001378 ; 43.418924,56.001378 ; 0 ; false ; 37.699112> 
+Circle <37.418924,56.001378 ; 6.000000> 
+
+Entity #27 <19.139779,31.722233 ; 19.139779,31.722233 ; 0 ; false ; 37.699112> 
+Circle <13.139779,31.722233 ; 6.000000> 
+
+Entity #26 <6.000000,0.000000 ; 6.000000,0.000000 ; 0 ; false ; 37.699112> 
+Circle <0.000000,0.000000 ; 6.000000> 
+
+Entity #25 <7.507706,-50.844090 ; 7.507706,-50.844090 ; 0 ; false ; 15.707963> 
+Circle <5.007706,-50.844090 ; 2.500000> 
+
+Entity #24 <55.132963,-98.469347 ; 55.132963,-98.469347 ; 0 ; false ; 15.707963> 
+Circle <52.632963,-98.469347 ; 2.500000> 
+
+Entity #23 <122.485247,-98.469347 ; 122.485247,-98.469347 ; 0 ; false ; 15.707963> 
+Circle <119.985247,-98.469347 ; 2.500000> 
+
+Entity #22 <170.110504,-50.844090 ; 170.110504,-50.844090 ; 0 ; false ; 15.707963> 
+Circle <167.610504,-50.844090 ; 2.500000> 
+
+Entity #21 <170.110504,16.508194 ; 170.110504,16.508194 ; 0 ; false ; 15.707963> 
+Circle <167.610504,16.508194 ; 2.500000> 
+
+Entity #20 <122.485247,64.133451 ; 122.485247,64.133451 ; 0 ; false ; 15.707963> 
+Circle <119.985247,64.133451 ; 2.500000> 
+
+Entity #19 <55.132963,64.133451 ; 55.132963,64.133451 ; 0 ; false ; 15.707963> 
+Circle <52.632963,64.133451 ; 2.500000> 
+
+Entity #18 <7.507706,16.508194 ; 7.507706,16.508194 ; 0 ; false ; 15.707963> 
+Circle <5.007706,16.508194 ; 2.500000> 
+
+Entity #17 <-21.529239,-39.115609 ; -21.529239,-39.115609 ; 0 ; false ; 15.707963> 
+Circle <-24.029239,-39.115609 ; 2.500000> 
+
+Entity #16 <-4.731226,-79.669599 ; -4.731226,-79.669599 ; 0 ; false ; 15.707963> 
+Circle <-7.231226,-79.669599 ; 2.500000> 
+
+Entity #15 <26.307454,-110.708279 ; 26.307454,-110.708279 ; 0 ; false ; 15.707963> 
+Circle <23.807454,-110.708279 ; 2.500000> 
+
+Entity #14 <66.861444,-127.506292 ; 66.861444,-127.506292 ; 0 ; false ; 15.707963> 
+Circle <64.361444,-127.506292 ; 2.500000> 
+
+Entity #13 <110.756766,-127.506292 ; 110.756766,-127.506292 ; 0 ; false ; 15.707963> 
+Circle <108.256766,-127.506292 ; 2.500000> 
+
+Entity #12 <151.310756,-110.708279 ; 151.310756,-110.708279 ; 0 ; false ; 15.707963> 
+Circle <148.810756,-110.708279 ; 2.500000> 
+
+Entity #11 <182.349436,-79.669599 ; 182.349436,-79.669599 ; 0 ; false ; 15.707963> 
+Circle <179.849436,-79.669599 ; 2.500000> 
+
+Entity #10 <199.147449,-39.115609 ; 199.147449,-39.115609 ; 0 ; false ; 15.707963> 
+Circle <196.647449,-39.115609 ; 2.500000> 
+
+Entity #9 <199.147449,4.779713 ; 199.147449,4.779713 ; 0 ; false ; 15.707963> 
+Circle <196.647449,4.779713 ; 2.500000> 
+
+Entity #8 <182.349436,45.333703 ; 182.349436,45.333703 ; 0 ; false ; 15.707963> 
+Circle <179.849436,45.333703 ; 2.500000> 
+
+Entity #7 <151.310756,76.372383 ; 151.310756,76.372383 ; 0 ; false ; 15.707963> 
+Circle <148.810756,76.372383 ; 2.500000> 
+
+Entity #6 <110.756766,93.170396 ; 110.756766,93.170396 ; 0 ; false ; 15.707963> 
+Circle <108.256766,93.170396 ; 2.500000> 
+
+Entity #5 <66.861444,93.170396 ; 66.861444,93.170396 ; 0 ; false ; 15.707963> 
+Circle <64.361444,93.170396 ; 2.500000> 
+
+Entity #4 <26.307454,76.372383 ; 26.307454,76.372383 ; 0 ; false ; 15.707963> 
+Circle <23.807454,76.372383 ; 2.500000> 
+
+Entity #3 <-4.731226,45.333703 ; -4.731226,45.333703 ; 0 ; false ; 15.707963> 
+Circle <-7.231226,45.333703 ; 2.500000> 
+
+Entity #2 <-21.529239,4.779713 ; -21.529239,4.779713 ; 0 ; false ; 15.707963> 
+Circle <-24.029239,4.779713 ; 2.500000> 
+
+Entity #1 <102.309105,-17.167948 ; 102.309105,-17.167948 ; 0 ; false ; 100.530965> 
+Circle <86.309105,-17.167948 ; 16.000000> 
+
+Entity #0 <211.309105,-17.167948 ; 211.309105,-17.167948 ; 0 ; false ; 785.398163> 
+Circle <86.309105,-17.167948 ; 125.000000> 
+
+ Count = 97
+
+MarkDeadLocks
+79 is connected to 78 DEB
+79 is connected to 76 FIN
+78 is connected to 79 DEB
+78 is connected to 77 FIN
+77 is connected to 76 DEB
+77 is connected to 78 FIN
+76 is connected to 77 DEB
+76 is connected to 79 FIN
+75 is connected to 72 DEB
+75 is connected to 74 FIN
+74 is connected to 73 DEB
+74 is connected to 75 FIN
+73 is connected to 74 DEB
+73 is connected to 72 FIN
+72 is connected to 75 DEB
+72 is connected to 73 FIN
+71 is connected to 69 DEB
+71 is connected to 68 FIN
+70 is connected to 68 DEB
+70 is connected to 69 FIN
+69 is connected to 71 DEB
+69 is connected to 70 FIN
+68 is connected to 70 DEB
+68 is connected to 71 FIN
+#66 is Deadlock on Deb (12.559105 ; -17.167948)
+#66 is StandAlone and PathHead
+LinkEntitiesFromDeadLocks
+LinkEntitiesRemaining
+79 is connected to 76 FIN
+Linked 76 on Fin 79
+76 is connected to 79 FIN
+76 is connected to 77 DEB
+Linked 77 on Deb 76 (reversed)
+77 is connected to 78 FIN
+Linked 78 on Fin 77
+78 is connected to 77 FIN
+78 is connected to 79 DEB
+End of path reached
+(#78 reversed)
+75 is connected to 74 FIN
+Linked 74 on Fin 75
+74 is connected to 75 FIN
+74 is connected to 73 DEB
+Linked 73 on Deb 74 (reversed)
+73 is connected to 72 FIN
+Linked 72 on Fin 73
+72 is connected to 73 FIN
+72 is connected to 75 DEB
+End of path reached
+(#72 reversed)
+71 is connected to 68 FIN
+Linked 68 on Fin 71
+68 is connected to 71 FIN
+68 is connected to 70 DEB
+Linked 70 on Deb 68 (reversed)
+70 is connected to 69 FIN
+Linked 69 on Fin 70
+69 is connected to 70 FIN
+69 is connected to 71 DEB
+End of path reached
+(#69 reversed)
+
+88 chemin(s)
+
+Compute Extents from #96
+Extents of #96 : (86.309105,-17.167948 ; 86.309105,-17.167948)
+Path 0 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #95
+Extents of #95 : (0.000000,-34.335896 ; 0.000000,-34.335896)
+Path 1 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #94
+Extents of #94 : (13.139779,-66.058129 ; 13.139779,-66.058129)
+Path 2 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #93
+Extents of #93 : (37.418924,-90.337274 ; 37.418924,-90.337274)
+Path 3 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #92
+Extents of #92 : (69.141157,-103.477053 ; 69.141157,-103.477053)
+Path 4 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #91
+Extents of #91 : (172.618210,0.000000 ; 172.618210,0.000000)
+Path 5 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #90
+Extents of #90 : (159.478431,31.722233 ; 159.478431,31.722233)
+Path 6 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #89
+Extents of #89 : (135.199286,56.001378 ; 135.199286,56.001378)
+Path 7 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #88
+Extents of #88 : (103.477053,69.141157 ; 103.477053,69.141157)
+Path 8 : Extents = 0.000000 ; Length = 0.000000 ; Color = 10
+Compute Extents from #87
+Extents of #87 : (103.477053,-103.477053 ; 103.477053,-103.477053)
+Path 9 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #86
+Extents of #86 : (135.199286,-90.337274 ; 135.199286,-90.337274)
+Path 10 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #85
+Extents of #85 : (159.478431,-66.058129 ; 159.478431,-66.058129)
+Path 11 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #84
+Extents of #84 : (172.618210,-34.335896 ; 172.618210,-34.335896)
+Path 12 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #83
+Extents of #83 : (69.141157,69.141157 ; 69.141157,69.141157)
+Path 13 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #82
+Extents of #82 : (37.418924,56.001378 ; 37.418924,56.001378)
+Path 14 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #81
+Extents of #81 : (13.139779,31.722233 ; 13.139779,31.722233)
+Path 15 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #80
+Extents of #80 : (0.000000,0.000000 ; 0.000000,0.000000)
+Path 16 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #79
+Extents of #79 : (12.559105,-22.917948 ; 50.059105,-22.917948)
+Extents of #76 : (6.809105,-22.917948 ; 12.559105,-11.417948)
+Extents of #77 : (12.559105,-11.417948 ; 50.059105,-11.417948)
+Extents of #78 : (50.059105,-22.917948 ; 55.809105,-11.417948)
+Path 17 : Extents = 60.500000 ; Length = 111.128316 ; Color = 0
+Compute Extents from #75
+Extents of #75 : (12.559105,-18.917948 ; 50.059105,-18.917948)
+Extents of #74 : (10.809105,-18.917948 ; 12.559105,-15.417948)
+Extents of #73 : (12.559105,-15.417948 ; 50.059105,-15.417948)
+Extents of #72 : (50.059105,-18.917948 ; 51.809105,-15.417948)
+Path 18 : Extents = 44.500000 ; Length = 85.995574 ; Color = 0
+Compute Extents from #71
+Extents of #71 : (12.559105,-20.917948 ; 50.059105,-20.917948)
+Extents of #68 : (8.809105,-20.917948 ; 12.559105,-13.417948)
+Extents of #70 : (12.559105,-13.417948 ; 50.059105,-13.417948)
+Extents of #69 : (50.059105,-20.917948 ; 53.809105,-13.417948)
+Path 19 : Extents = 52.500000 ; Length = 98.561945 ; Color = 6
+Compute Extents from #67
+Extents of #67 : (72.309105,-31.167948 ; 100.309105,-3.167948)
+Path 20 : Extents = 56.000000 ; Length = 87.964594 ; Color = 2
+Compute Extents from #66
+Extents of #66 : (12.559105,-17.167948 ; 50.059105,-17.167948)
+Path 21 : Extents = 37.500000 ; Length = 37.500000 ; Color = 2
+Compute Extents from #65
+Extents of #65 : (5.007706,-50.844090 ; 5.007706,-50.844090)
+Path 22 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #64
+Extents of #64 : (52.632963,-98.469347 ; 52.632963,-98.469347)
+Path 23 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #63
+Extents of #63 : (119.985247,-98.469347 ; 119.985247,-98.469347)
+Path 24 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #62
+Extents of #62 : (167.610504,-50.844090 ; 167.610504,-50.844090)
+Path 25 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #61
+Extents of #61 : (167.610504,16.508194 ; 167.610504,16.508194)
+Path 26 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #60
+Extents of #60 : (119.985247,64.133451 ; 119.985247,64.133451)
+Path 27 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #59
+Extents of #59 : (52.632963,64.133451 ; 52.632963,64.133451)
+Path 28 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #58
+Extents of #58 : (5.007706,16.508194 ; 5.007706,16.508194)
+Path 29 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #57
+Extents of #57 : (-24.029239,4.779713 ; -24.029239,4.779713)
+Path 30 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #56
+Extents of #56 : (-24.029239,-39.115609 ; -24.029239,-39.115609)
+Path 31 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #55
+Extents of #55 : (-7.231226,-79.669599 ; -7.231226,-79.669599)
+Path 32 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #54
+Extents of #54 : (23.807454,-110.708279 ; 23.807454,-110.708279)
+Path 33 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #53
+Extents of #53 : (64.361444,-127.506292 ; 64.361444,-127.506292)
+Path 34 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #52
+Extents of #52 : (108.256766,-127.506292 ; 108.256766,-127.506292)
+Path 35 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #51
+Extents of #51 : (148.810756,-110.708279 ; 148.810756,-110.708279)
+Path 36 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #50
+Extents of #50 : (179.849436,-79.669599 ; 179.849436,-79.669599)
+Path 37 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #49
+Extents of #49 : (196.647449,-39.115609 ; 196.647449,-39.115609)
+Path 38 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #48
+Extents of #48 : (196.647449,4.779713 ; 196.647449,4.779713)
+Path 39 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #47
+Extents of #47 : (179.849436,45.333703 ; 179.849436,45.333703)
+Path 40 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #46
+Extents of #46 : (148.810756,76.372383 ; 148.810756,76.372383)
+Path 41 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #45
+Extents of #45 : (108.256766,93.170396 ; 108.256766,93.170396)
+Path 42 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #44
+Extents of #44 : (64.361444,93.170396 ; 64.361444,93.170396)
+Path 43 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #43
+Extents of #43 : (23.807454,76.372383 ; 23.807454,76.372383)
+Path 44 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #42
+Extents of #42 : (-7.231226,45.333703 ; -7.231226,45.333703)
+Path 45 : Extents = 0.000000 ; Length = 0.000000 ; Color = 9
+Compute Extents from #41
+Extents of #41 : (-6.000000,-40.335896 ; 6.000000,-28.335896)
+Path 46 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #40
+Extents of #40 : (7.139779,-72.058129 ; 19.139779,-60.058129)
+Path 47 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #39
+Extents of #39 : (31.418924,-96.337274 ; 43.418924,-84.337274)
+Path 48 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #38
+Extents of #38 : (63.141157,-109.477053 ; 75.141157,-97.477053)
+Path 49 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #37
+Extents of #37 : (97.477053,-109.477053 ; 109.477053,-97.477053)
+Path 50 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #36
+Extents of #36 : (129.199286,-96.337274 ; 141.199286,-84.337274)
+Path 51 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #35
+Extents of #35 : (153.478431,-72.058129 ; 165.478431,-60.058129)
+Path 52 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #34
+Extents of #34 : (166.618210,-40.335896 ; 178.618210,-28.335896)
+Path 53 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #33
+Extents of #33 : (166.618210,-6.000000 ; 178.618210,6.000000)
+Path 54 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #32
+Extents of #32 : (153.478431,25.722233 ; 165.478431,37.722233)
+Path 55 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #31
+Extents of #31 : (129.199286,50.001378 ; 141.199286,62.001378)
+Path 56 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #30
+Extents of #30 : (97.477053,63.141157 ; 109.477053,75.141157)
+Path 57 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #29
+Extents of #29 : (63.141157,63.141157 ; 75.141157,75.141157)
+Path 58 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #28
+Extents of #28 : (31.418924,50.001378 ; 43.418924,62.001378)
+Path 59 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #27
+Extents of #27 : (7.139779,25.722233 ; 19.139779,37.722233)
+Path 60 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #26
+Extents of #26 : (-6.000000,-6.000000 ; 6.000000,6.000000)
+Path 61 : Extents = 24.000000 ; Length = 37.699112 ; Color = 0
+Compute Extents from #25
+Extents of #25 : (2.507706,-53.344090 ; 7.507706,-48.344090)
+Path 62 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #24
+Extents of #24 : (50.132963,-100.969347 ; 55.132963,-95.969347)
+Path 63 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #23
+Extents of #23 : (117.485247,-100.969347 ; 122.485247,-95.969347)
+Path 64 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #22
+Extents of #22 : (165.110504,-53.344090 ; 170.110504,-48.344090)
+Path 65 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #21
+Extents of #21 : (165.110504,14.008194 ; 170.110504,19.008194)
+Path 66 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #20
+Extents of #20 : (117.485247,61.633451 ; 122.485247,66.633451)
+Path 67 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #19
+Extents of #19 : (50.132963,61.633451 ; 55.132963,66.633451)
+Path 68 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #18
+Extents of #18 : (2.507706,14.008194 ; 7.507706,19.008194)
+Path 69 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #17
+Extents of #17 : (-26.529239,-41.615609 ; -21.529239,-36.615609)
+Path 70 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #16
+Extents of #16 : (-9.731226,-82.169599 ; -4.731226,-77.169599)
+Path 71 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #15
+Extents of #15 : (21.307454,-113.208279 ; 26.307454,-108.208279)
+Path 72 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #14
+Extents of #14 : (61.861444,-130.006292 ; 66.861444,-125.006292)
+Path 73 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #13
+Extents of #13 : (105.756766,-130.006292 ; 110.756766,-125.006292)
+Path 74 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #12
+Extents of #12 : (146.310756,-113.208279 ; 151.310756,-108.208279)
+Path 75 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #11
+Extents of #11 : (177.349436,-82.169599 ; 182.349436,-77.169599)
+Path 76 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #10
+Extents of #10 : (194.147449,-41.615609 ; 199.147449,-36.615609)
+Path 77 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #9
+Extents of #9 : (194.147449,2.279713 ; 199.147449,7.279713)
+Path 78 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #8
+Extents of #8 : (177.349436,42.833703 ; 182.349436,47.833703)
+Path 79 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #7
+Extents of #7 : (146.310756,73.872383 ; 151.310756,78.872383)
+Path 80 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #6
+Extents of #6 : (105.756766,90.670396 ; 110.756766,95.670396)
+Path 81 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #5
+Extents of #5 : (61.861444,90.670396 ; 66.861444,95.670396)
+Path 82 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #4
+Extents of #4 : (21.307454,73.872383 ; 26.307454,78.872383)
+Path 83 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #3
+Extents of #3 : (-9.731226,42.833703 ; -4.731226,47.833703)
+Path 84 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #2
+Extents of #2 : (-26.529239,2.279713 ; -21.529239,7.279713)
+Path 85 : Extents = 10.000000 ; Length = 15.707963 ; Color = 0
+Compute Extents from #1
+Extents of #1 : (70.309105,-33.167948 ; 102.309105,-1.167948)
+Path 86 : Extents = 64.000000 ; Length = 100.530965 ; Color = 0
+Compute Extents from #0
+Extents of #0 : (-38.690895,-142.167948 ; 211.309105,107.832052)
+Path 87 : Extents = 500.000000 ; Length = 785.398163 ; Color = 0
+
+LinkRewind
+
+Path   0 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  96 ; Tail #  96)
+Path   1 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  95 ; Tail #  95)
+Path   2 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  94 ; Tail #  94)
+Path   3 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  93 ; Tail #  93)
+Path   4 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  92 ; Tail #  92)
+Path   5 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  91 ; Tail #  91)
+Path   6 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  90 ; Tail #  90)
+Path   7 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  89 ; Tail #  89)
+Path   8 is closed (Extents    0.000000 ; Length    0.000000 ; Color 10 ; Head #  88 ; Tail #  88)
+Path   9 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  87 ; Tail #  87)
+Path  10 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  86 ; Tail #  86)
+Path  11 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  85 ; Tail #  85)
+Path  12 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  84 ; Tail #  84)
+Path  13 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  83 ; Tail #  83)
+Path  14 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  82 ; Tail #  82)
+Path  15 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  81 ; Tail #  81)
+Path  16 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  80 ; Tail #  80)
+Path  17 is closed (Extents   60.500000 ; Length  111.128316 ; Color  0 ; Head #  79 ; Tail #  78)
+Path  18 is closed (Extents   44.500000 ; Length   85.995574 ; Color  0 ; Head #  75 ; Tail #  72)
+Path  19 is closed (Extents   52.500000 ; Length   98.561945 ; Color  6 ; Head #  71 ; Tail #  69)
+Path  20 is closed (Extents   56.000000 ; Length   87.964594 ; Color  2 ; Head #  67 ; Tail #  67)
+Path  21 is open   (Extents   37.500000 ; Length   37.500000 ; Color  2 ; Head #  66 ; Tail #  66)
+Path  22 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  65 ; Tail #  65)
+Path  23 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  64 ; Tail #  64)
+Path  24 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  63 ; Tail #  63)
+Path  25 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  62 ; Tail #  62)
+Path  26 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  61 ; Tail #  61)
+Path  27 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  60 ; Tail #  60)
+Path  28 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  59 ; Tail #  59)
+Path  29 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  58 ; Tail #  58)
+Path  30 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  57 ; Tail #  57)
+Path  31 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  56 ; Tail #  56)
+Path  32 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  55 ; Tail #  55)
+Path  33 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  54 ; Tail #  54)
+Path  34 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  53 ; Tail #  53)
+Path  35 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  52 ; Tail #  52)
+Path  36 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  51 ; Tail #  51)
+Path  37 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  50 ; Tail #  50)
+Path  38 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  49 ; Tail #  49)
+Path  39 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  48 ; Tail #  48)
+Path  40 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  47 ; Tail #  47)
+Path  41 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  46 ; Tail #  46)
+Path  42 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  45 ; Tail #  45)
+Path  43 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  44 ; Tail #  44)
+Path  44 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  43 ; Tail #  43)
+Path  45 is closed (Extents    0.000000 ; Length    0.000000 ; Color  9 ; Head #  42 ; Tail #  42)
+Path  46 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  41 ; Tail #  41)
+Path  47 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  40 ; Tail #  40)
+Path  48 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  39 ; Tail #  39)
+Path  49 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  38 ; Tail #  38)
+Path  50 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  37 ; Tail #  37)
+Path  51 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  36 ; Tail #  36)
+Path  52 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  35 ; Tail #  35)
+Path  53 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  34 ; Tail #  34)
+Path  54 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  33 ; Tail #  33)
+Path  55 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  32 ; Tail #  32)
+Path  56 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  31 ; Tail #  31)
+Path  57 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  30 ; Tail #  30)
+Path  58 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  29 ; Tail #  29)
+Path  59 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  28 ; Tail #  28)
+Path  60 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  27 ; Tail #  27)
+Path  61 is closed (Extents   24.000000 ; Length   37.699112 ; Color  0 ; Head #  26 ; Tail #  26)
+Path  62 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  25 ; Tail #  25)
+Path  63 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  24 ; Tail #  24)
+Path  64 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  23 ; Tail #  23)
+Path  65 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  22 ; Tail #  22)
+Path  66 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  21 ; Tail #  21)
+Path  67 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  20 ; Tail #  20)
+Path  68 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  19 ; Tail #  19)
+Path  69 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  18 ; Tail #  18)
+Path  70 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  17 ; Tail #  17)
+Path  71 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  16 ; Tail #  16)
+Path  72 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  15 ; Tail #  15)
+Path  73 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  14 ; Tail #  14)
+Path  74 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  13 ; Tail #  13)
+Path  75 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  12 ; Tail #  12)
+Path  76 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  11 ; Tail #  11)
+Path  77 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #  10 ; Tail #  10)
+Path  78 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #   9 ; Tail #   9)
+Path  79 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #   8 ; Tail #   8)
+Path  80 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #   7 ; Tail #   7)
+Path  81 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #   6 ; Tail #   6)
+Path  82 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #   5 ; Tail #   5)
+Path  83 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #   4 ; Tail #   4)
+Path  84 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #   3 ; Tail #   3)
+Path  85 is closed (Extents   10.000000 ; Length   15.707963 ; Color  0 ; Head #   2 ; Tail #   2)
+Path  86 is closed (Extents   64.000000 ; Length  100.530965 ; Color  0 ; Head #   1 ; Tail #   1)
+Path  87 is closed (Extents  500.000000 ; Length  785.398163 ; Color  0 ; Head #   0 ; Tail #   0)
+
+Chemins triés par surface
+
+
+Optimisation des déplacements
+
+Inverted pathes 0 with 9 : dist = 17.251017
+Inverted pathes 1 with 9 : dist = 17.251017
+Inverted pathes 2 with 7 : dist = 24.499999
+Inverted pathes 3 with 31 : dist = 43.895322
+Inverted pathes 4 with 9 : dist = 24.499999
+Inverted pathes 5 with 21 : dist = 17.251017
+Inverted pathes 6 with 8 : dist = 17.251017
+Inverted pathes 7 with 15 : dist = 24.500000
+Inverted pathes 8 with 33 : dist = 43.895322
+Inverted pathes 9 with 18 : dist = 24.500000
+Inverted pathes 10 with 33 : dist = 17.251017
+Inverted pathes 11 with 20 : dist = 17.251017
+Inverted pathes 12 with 15 : dist = 24.499999
+Inverted pathes 13 with 35 : dist = 43.895322
+Inverted pathes 14 with 22 : dist = 24.499999
+Inverted pathes 15 with 23 : dist = 17.251017
+Inverted pathes 16 with 24 : dist = 17.251017
+Inverted pathes 17 with 24 : dist = 24.500000
+Inverted pathes 18 with 37 : dist = 43.895322
+Inverted pathes 19 with 24 : dist = 24.500000
+Inverted pathes 20 with 33 : dist = 17.251017
+Inverted pathes 21 with 24 : dist = 17.251017
+Inverted pathes 22 with 31 : dist = 24.499999
+Inverted pathes 23 with 37 : dist = 43.895322
+Inverted pathes 24 with 35 : dist = 24.499999
+Inverted pathes 25 with 35 : dist = 17.251017
+Inverted pathes 26 with 31 : dist = 17.251017
+Inverted pathes 27 with 39 : dist = 24.500000
+Inverted pathes 28 with 38 : dist = 43.895322
+Inverted pathes 29 with 35 : dist = 24.500000
+Inverted pathes 30 with 33 : dist = 17.251017
+Inverted pathes 31 with 39 : dist = 17.251017
+Inverted pathes 32 with 40 : dist = 24.499999
+Inverted pathes 33 with 34 : dist = 43.895322
+Inverted pathes 34 with 35 : dist = 24.499999
+Inverted pathes 35 with 40 : dist = 17.251017
+Inverted pathes 36 with 39 : dist = 17.251017
+Inverted pathes 37 with 39 : dist = 24.500000
+Inverted pathes 38 with 39 : dist = 43.895322
+Inverted pathes 39 with 40 : dist = 112.500000
+Inverted pathes 41 with 56 : dist = 31.316153
+Inverted pathes 42 with 56 : dist = 31.316153
+Inverted pathes 43 with 56 : dist = 43.895322
+Inverted pathes 44 with 56 : dist = 31.316153
+Inverted pathes 45 with 49 : dist = 31.316153
+Inverted pathes 46 with 51 : dist = 43.895322
+Inverted pathes 47 with 58 : dist = 31.316153
+Inverted pathes 48 with 53 : dist = 31.316153
+Inverted pathes 49 with 55 : dist = 43.895322
+Inverted pathes 50 with 56 : dist = 31.316153
+Inverted pathes 51 with 57 : dist = 31.316153
+Inverted pathes 52 with 59 : dist = 43.895322
+Inverted pathes 53 with 62 : dist = 31.316153
+Inverted pathes 54 with 61 : dist = 31.316153
+Inverted pathes 55 with 63 : dist = 43.895322
+Inverted pathes 56 with 64 : dist = 31.316153
+Inverted pathes 57 with 59 : dist = 31.316153
+Inverted pathes 58 with 64 : dist = 43.895322
+Inverted pathes 59 with 61 : dist = 31.316153
+Inverted pathes 60 with 63 : dist = 31.316153
+Inverted pathes 61 with 62 : dist = 43.895322
+Inverted pathes 62 with 63 : dist = 31.316153
+Inverted pathes 63 with 64 : dist = 31.316153
+Inverted pathes 65 with 66 : dist = 34.335896
+Inverted pathes 66 with 71 : dist = 34.335898
+Inverted pathes 67 with 74 : dist = 34.335896
+Inverted pathes 68 with 76 : dist = 34.335898
+Inverted pathes 69 with 70 : dist = 34.335896
+Inverted pathes 70 with 78 : dist = 34.335898
+Inverted pathes 71 with 76 : dist = 34.335896
+Inverted pathes 72 with 74 : dist = 34.335898
+Inverted pathes 73 with 76 : dist = 34.335896
+Inverted pathes 74 with 79 : dist = 34.335898
+Inverted pathes 75 with 77 : dist = 34.335896
+Inverted pathes 76 with 79 : dist = 34.335898
+Inverted pathes 77 with 79 : dist = 34.335896
+Inverted pathes 78 with 79 : dist = 34.335898
+Inverted pathes 79 with 80 : dist = 34.335896
+Path #0 -> #1 : move 17.251017
+Path #1 -> #2 : move 17.251017
+Path #2 -> #3 : move 24.499999
+Path #3 -> #4 : move 43.895322
+Path #4 -> #5 : move 24.499999
+Path #5 -> #6 : move 17.251017
+Path #6 -> #7 : move 17.251017
+Path #7 -> #8 : move 24.500000
+Path #8 -> #9 : move 43.895322
+Path #9 -> #10 : move 24.500000
+Path #10 -> #11 : move 17.251017
+Path #11 -> #12 : move 17.251017
+Path #12 -> #13 : move 24.499999
+Path #13 -> #14 : move 43.895322
+Path #14 -> #15 : move 24.499999
+Path #15 -> #16 : move 17.251017
+Path #16 -> #17 : move 17.251017
+Path #17 -> #18 : move 24.500000
+Path #18 -> #19 : move 43.895322
+Path #19 -> #20 : move 24.500000
+Path #20 -> #21 : move 17.251017
+Path #21 -> #22 : move 17.251017
+Path #22 -> #23 : move 24.499999
+Path #23 -> #24 : move 43.895322
+Path #24 -> #25 : move 24.499999
+Path #25 -> #26 : move 17.251017
+Path #26 -> #27 : move 17.251017
+Path #27 -> #28 : move 24.500000
+Path #28 -> #29 : move 43.895322
+Path #29 -> #30 : move 24.500000
+Path #30 -> #31 : move 17.251017
+Path #31 -> #32 : move 17.251017
+Path #32 -> #33 : move 24.499999
+Path #33 -> #34 : move 43.895322
+Path #34 -> #35 : move 24.499999
+Path #35 -> #36 : move 17.251017
+Path #36 -> #37 : move 17.251017
+Path #37 -> #38 : move 24.500000
+Path #38 -> #39 : move 43.895322
+Path #39 -> #40 : move 112.500000
+Path #40 -> #41 : move 110.049117
+Path #41 -> #42 : move 31.316153
+Path #42 -> #43 : move 31.316153
+Path #43 -> #44 : move 43.895322
+Path #44 -> #45 : move 31.316153
+Path #45 -> #46 : move 31.316153
+Path #46 -> #47 : move 43.895322
+Path #47 -> #48 : move 31.316153
+Path #48 -> #49 : move 31.316153
+Path #49 -> #50 : move 43.895322
+Path #50 -> #51 : move 31.316153
+Path #51 -> #52 : move 31.316153
+Path #52 -> #53 : move 43.895322
+Path #53 -> #54 : move 31.316153
+Path #54 -> #55 : move 31.316153
+Path #55 -> #56 : move 43.895322
+Path #56 -> #57 : move 31.316153
+Path #57 -> #58 : move 31.316153
+Path #58 -> #59 : move 43.895322
+Path #59 -> #60 : move 31.316153
+Path #60 -> #61 : move 31.316153
+Path #61 -> #62 : move 43.895322
+Path #62 -> #63 : move 31.316153
+Path #63 -> #64 : move 31.316153
+Path #64 -> #65 : move 47.831892
+Path #65 -> #66 : move 34.335896
+Path #66 -> #67 : move 34.335898
+Path #67 -> #68 : move 34.335896
+Path #68 -> #69 : move 34.335898
+Path #69 -> #70 : move 34.335896
+Path #70 -> #71 : move 34.335898
+Path #71 -> #72 : move 34.335896
+Path #72 -> #73 : move 34.335898
+Path #73 -> #74 : move 34.335896
+Path #74 -> #75 : move 34.335898
+Path #75 -> #76 : move 34.335896
+Path #76 -> #77 : move 34.335898
+Path #77 -> #78 : move 34.335896
+Path #78 -> #79 : move 34.335898
+Path #79 -> #80 : move 34.335896
+Path #80 -> #81 : move 49.331076
+Path #81 -> #82 : move 1.750000
+Path #82 -> #83 : move 5.500000
+Path #83 -> #84 : move 50.389731
+Path #84 -> #85 : move 50.577910
+Path #85 -> #86 : move 52.565435
+Path #86 -> #87 : move 109.000000
+
+### Opening LPT1 port
+### CNC3AX card detected !
+### Disable motor X
+### Disable motor Y
+### Disable motor Z
+
+ Port : LoadConfig
+
+Port Found Key 'X ' = '0' -> '01'
+Port Found Key 'XDir ' = '1' -> '02'
+Port Found Key 'XStart ' = '4' -> '10'
+Port Found Key 'XStop ' = '4' -> '10'
+Port Found Key 'Y ' = '2' -> '04'
+Port Found Key 'YDir ' = '3' -> '08'
+Port Found Key 'YStart ' = '5' -> '20'
+Port Found Key 'YStop ' = '5' -> '20'
+Port Found Key 'Z ' = '4' -> '10'
+Port Found Key 'ZDir ' = '5' -> '20'
+Port Found Key 'ZStart ' = '7' -> '80'
+Port Found Key 'ZStop ' = '7' -> '80'
+Port Found Key 'ZTool ' = '3' -> '08'
+Port Found Key 'Rot ' = '-1' -> 'FF'
+Port Found Key 'ARU ' = '-1' -> 'FF'
+
+Driver Status init to FINISHED
+
+
+ Driver : LoadConfig
+
+Driver Found Key 'XInvert ' = '0.000000' -> '0.000000'
+Driver Found Key 'XStep ' = '200.000000' -> '200.000000'
+Driver Found Key 'XDist ' = '1.230000' -> '1.230000'
+Driver Found Key 'YInvert ' = '1.000000' -> '1.000000'
+Driver Found Key 'YStep ' = '200.000000' -> '200.000000'
+Driver Found Key 'YDist ' = '1.230000' -> '1.230000'
+Driver Found Key 'YError ' = '-0.900000' -> '-0.900000'
+Driver Found Key 'ZInvert ' = '0.000000' -> '0.000000'
+Driver Found Key 'ZStep ' = '200.000000' -> '200.000000'
+Driver Found Key 'ZDist ' = '1.230000' -> '1.230000'
+Driver Found Key 'ZPosMoveMargin ' = '3.000000' -> '3.000000'
+Driver Found Key 'SpeedMove ' = '1.100000' -> '1.100000'
+Driver Found Key 'SpeedWork ' = '0.100000' -> '0.100000'
+Résolutions : 0.006150 0.006150 0.006150 ; Min : 0.006150
+
+ Driver : LoadConfigDXF
+
+Driver DXF Found Key Z : '8' = '8.000000'
+Driver DXF Found Key '2' = 2 : '0;-8;1.5' : Start=8.000000 ; End=0.000000 ; Inc=1.500000
+DXF Z Max = 8.000000
+
+ Driver : LoadStatus
+
+### Enable motor X
+### Enable motor Y
+### Enable motor Z
+Entity #66 : PosZ Work = 6.500000
+Arrived at StartPos. Status changed to FINISHED
+### Disable motor X
+### Disable motor Y
+### Disable motor Z
+### Enable motor X
+### Enable motor Y
+### Enable motor Z
+Arrived at StartPos. Status changed to FINISHED
+### Disable motor X
+### Disable motor Y
+### Disable motor Z
+
+
+
+0.000000 mm parcourus en usinage
+199.998000 mm parcourus en deplacement
+199.998000 mm parcourus au total
+
+ Driver : SaveStatus
+
+### Disable motor X
+### Disable motor Y
+### Disable motor Z
